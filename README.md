@@ -92,8 +92,9 @@ Rated Power: 10W
 
 Tested Power: 9.89W
 
-| Plywood (1MM)                          | Engraving | 6000mm/min 50%  |
+| Material                               | Process   | Power           |
 | -------------------------------------- | --------- | --------------- |
+| Plywood (1MM)                          | Engraving | 6000mm/min 50%  |
 |                                        | Cutting   | 1000mm/min 100% |
 | Plywood (2MM)                          | Engraving | 6000mm/min 50%  |
 |                                        | Cutting   | 900mm/min 100%  |
