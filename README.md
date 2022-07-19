@@ -34,7 +34,7 @@ Honeycomb Working Table：
 
 
 
-## Pergear LaserStorm S10 Video
+## TS2-Laser-Engraver Video
 
 Full review video: 
 
