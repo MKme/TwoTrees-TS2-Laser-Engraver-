@@ -21,15 +21,15 @@ TS2-Laser-Engraver:
 Buy it here: https://www.twotrees3dofficial.com?aff=71
  
 
-Laser Rotary Roller: 
+Laser Rotary Roller: https://www.twotrees3dofficial.com/collections/laser-engravers-accessories/products/rotary-attachment-laser-engraver-y-axis-rotary-roller-diy-upgrde-kit-for-column-cylinder-engraving?aff=71
 
 
 
-Air Assist Pump:
+Air Assist Pump: https://www.twotrees3dofficial.com/collections/laser-engravers-accessories/products/air-assist-kit-for-tts-ts2?variant=43123947045084&aff=71
 
 
  
-Honeycomb Working Table：
+Honeycomb Working Table： https://www.twotrees3dofficial.com/collections/laser-engravers-accessories/products/laser-cutting-honeycomb-working-table-for-co2-cutting-machine-laser-engraver-tt-5-5-s-320x220-300x300-300-200mm?variant=42312059191516&aff=71
 
 
 
