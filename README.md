@@ -83,3 +83,72 @@ Dollar store craft section is BEST!
 - Boxes https://festi.info/boxes.py
 
 - Business cards https://www.youtube.com/watch?v=g9tuA0RBPQQ&list=PLxyM2a_cfnzh4BQ6e20lYyFzN7XcakLek&index=3
+
+## Suggested power levels
+
+DEVICE & MATERIAL	 	TS2
+Specification	Testing Type	
+Rated Power: 10W
+
+Tested Power: 9.89W
+
+Plywood (1MM)	Engraving	6000mm/min 50%
+Cutting	1000mm/min 100%
+Plywood (2MM)	Engraving	6000mm/min 50%
+Cutting	900mm/min 100%
+Plywood (3MM)	Engraving	6000mm/min 50%
+Cutting	700mm/min 100%
+Plywood (4MM)	Engraving	6000mm/min 50%
+Cutting	500mm/min 100%
+Plywood (5MM)	Engraving	6000mm/min 50%
+Cutting	300mm/min 100%
+Plywood (8MM)	Engraving	6000mm/min 50%
+Cutting	150mm/min 100%
+Acrylic Sheet (1MM)	Engraving	6000mm/min 20%
+Cutting	500mm/min 100%
+Acrylic Sheet (2MM)	Engraving	6000mm/min 20%
+Cutting	400mm/min 100%
+Acrylic Sheet (3MM)	Engraving	6000mm/min 20%
+Cutting	150mm/min 100%
+Pine Board 7.0mm	Engraving	2000mm/min 30%
+Cutting	150mm/min 100%
+Pine Board 9.0mm	Engraving	2000mm/min 30%
+Cutting	100mm/min 100%
+Paper 0.1mm (Darker Color)	Engraving	6000mm/min 20%
+Cutting	4000mm/min 100%
+Paper 0.3mm (Darker Color)	Engraving	6000mm/min 50%
+Cutting	2000mm/min 100%
+250g/sq.m Kraft Paper	Engraving	6000mm/min 50%
+Cutting	2000mm/min 100%
+3mm Cardboard	Engraving	6000mm/min 50%
+Cutting	800mm/min 100%
+Leather 0.7MM	Engraving	6000mm/min 20%
+Cutting	2000mm/min 100%
+Non-woven Fabric (0.5mm, darker color)	Engraving	6000mm/min 15%
+Cutting	2000mm/min 100%
+Dust-free Cloth (white)	Engraving	X
+Cutting	150-200mm/min 100%
+Gauze	Engraving	X
+Cutting	500mm/min 100%
+Plastic Plates (In darker color)	Engraving	6000mm/min 40%
+Cutting	X
+Acrylic 5mm	Engraving	6000mm/min 20%
+Cutting	150mm/min 100% *2
+Tinned Wire	Engraving	X
+Cutting	X
+Cobblestone	Engraving	6000mm/min 100%
+Cutting	X
+Ceramics	Engraving	X
+Cutting	X
+Coated Metal	Engraving	6000mm/min 50%
+Cutting	X
+Electroplated Metal	Engraving	1000mm/min 100%
+Cutting	X
+Anodized Aluminum	Engraving	6000mm/min 20%
+Cutting	X
+Stainless Steel	Engraving	3000mm/min 100%
+Cutting	X
+MDF 3mm	Engraving	6000mm/min 60%
+Cutting	150mm/min 100% x2
+Paper Angle Bead 5mm	Engraving	6000mm/min 60%
+Cutting	100mm/min 100% x2
