@@ -2,7 +2,7 @@
 TwoTrees TS2 Laser Engraver Tips tricks files and mods
 
 <p align="center">
-<p align="center"><img src="https://github.com/MKme/TwoTrees-TS2-Laser-Engraver-/blob/main/Photos/04A0E80F-B31A-41D8-B38F-E3643ABABCF0.jpg"/>
+<p align="center"><img src="https://github.com/MKme/TwoTrees-TS2-Laser-Engraver-/blob/main/Photos/623BB623-21CF-4AE4-B08A-BD63847D8B1C.jpg"/>
 <b>TwoTrees-TS2-Laser-Engrave 10W  </b>
 <br>🐦 <a href="https://twitter.com/mkmeorg">Twitter</a>
 | 📺 <a href="https://www.youtube.com/mkmeorg">YouTube</a>
